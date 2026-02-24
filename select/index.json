@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アトラクトライト(Live at SUPERNOVA KAWASAKI,2025/01/11)",
+  "base_artist": "*Luna",
+  "createdAt": "2026-02-24T05:30:15.952978Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アトラクトライト",
+      "artist": "*Luna",
+      "has_synced": false,
+      "path": "select/pl_01_アトラクトライト_Luna.txt"
+    }
+  ]
+}
